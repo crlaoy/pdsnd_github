@@ -11,7 +11,9 @@ This project requires writing a Python script with functions to analyze 3 Bikesh
 The script asks for user input to select the city, month of the year, and day of the week to provide a summary statistics on most popular time and destination of bike share usage.
 
 ### Files used
-chicago.csv, new_york_city.csv, washington.csv
+1) chicago.csv
+2) new_york_city.csv
+3) washington.csv
 
 ### Credits
 Forked repo from http://github.com/udacity/pdsnd_github
