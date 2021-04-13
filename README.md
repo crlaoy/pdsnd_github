@@ -17,3 +17,4 @@ The script asks for user input to select the city, month of the year, and day of
 
 ### Credits
 Forked repo from http://github.com/udacity/pdsnd_github
+Addition credits to Udacity instructor Richard Kalehoff
