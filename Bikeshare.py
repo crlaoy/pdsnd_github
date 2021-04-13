@@ -4,6 +4,8 @@ Spyder Editor
 
 This is a temporary script file.
 """
+#######################  BEGINNING OF CODE  #######################
+
 #import os
 #retval = os.getcwd()
 #print (retval)
